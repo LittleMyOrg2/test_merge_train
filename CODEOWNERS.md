@@ -1,0 +1,2 @@
+# default codeowners
+*       @nsoulat-gg
